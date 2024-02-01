@@ -1,3 +1,4 @@
+# My introduction
 - 👋 Hi, I’m @realyangmin
 - 👀 I’m interested in AI/ML/DL 
 - 🌱 I’m currently learning Pytorch & ChatGPT pompt
